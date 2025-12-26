@@ -1,6 +1,6 @@
 # drawer
 
-A new Flutter project.
+This is a Drawer in Flutter.
 
 ## Getting Started
 
